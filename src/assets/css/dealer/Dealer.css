@@ -1,0 +1,19 @@
+.locations-dropdown {
+    /*  float: left;*/
+  }
+  
+  .map {
+    position: relative;
+    top: 15px;
+  }
+  .active-path {
+    fill: #c35989 !important;
+  }
+  
+  .map-region {
+    fill: #b9cfde;
+  }
+  
+  .location-search {
+    height: auto;
+  }

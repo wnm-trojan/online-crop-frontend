@@ -1,0 +1,54 @@
+.forecast-summery {
+    background-color: #ffffff;
+    padding: 15px;
+}
+.forecast-summery .analyzer-summery{
+    background-color: #f3f9ff;
+    padding: 35px 15px 15px 15px;
+}
+.forecast-summery .analyzer-summery .analyzer-box{
+    position: relative;
+    min-height: 175px;
+    border: solid 1px#ddd;
+    padding: 20px 25px 15px 25px;
+}
+.forecast-summery .analyzer-summery .analyzer-box > h4{
+    text-align: left;
+    position: absolute;
+    top: -15px;
+    left: 15px;
+    background-color: #f3f9ff;
+    padding: 0 10px;
+}
+.forecast-summery .analyzer-summery .analyzer-box > h6 .check{
+    font-size: 13px;
+}
+.forecast-summery .analyzer-summery .analyzer-box .list{
+    margin-bottom: 10px;
+    position: relative;
+}
+.forecast-summery .analyzer-summery .analyzer-box .list ul{
+    list-style: none;
+    padding-left: 0;
+    text-align: left;
+    margin-left: 85px;
+}
+.forecast-summery .analyzer-summery .analyzer-box .list .image{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.forecast-summery .analyzer-summery .analyzer-box .list .image img{
+    border: solid 1px #6bb601;
+    border-radius: 50%;
+    width: 75px;
+    padding: 5px;
+}
+.forecast-summery .analyzer-summery .analyzer-box .list ul li.title{
+    font-size: 22px;
+    color: #6bb601;
+    font-weight: 600;
+}
+.forecast-summery .analyzer-summery .analyzer-box .more{
+    text-align: right;
+}

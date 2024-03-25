@@ -1,0 +1,48 @@
+.header{
+    width: 100%;
+    position: fixed;
+    z-index: 9;
+}
+.header .navbar{
+    background-color: #ffffff !important;
+    position: relative;
+    width: 100%;
+    z-index: 9;
+}
+.header .navbar .navbar-brand{
+    color: #5d9d02;
+    font-weight: 600;
+}
+.header .navbar .navbar-brand img{
+    height: 60px;
+}
+.header .navbar .nav-item .nav-link{
+    cursor: pointer;
+}
+.header .navbar .nav-item .nav-link.active{
+    font-weight: 600;
+}
+.header .navbar .nav-item .nav-link:hover{
+    font-weight: 600;
+}
+.header .navbar .nav-item .sign-in{
+    background-color: #000000;
+    padding: 0.3rem 1rem;
+    color: #ffffff !important;
+    border-radius: 5px;
+}
+.header .navbar .nav-item .sign-in:hover{
+    background-color: #6bb601;
+    color: #000000 !important;
+}
+.header .languages .btn-secondary {
+    color: #000000;
+    background-color: transparent;
+    border-color: transparent;
+}
+.header .languages .btn-secondary:focus {
+    box-shadow: none
+}
+.header .languages .dropdown-menu {
+    left: -60px;
+}

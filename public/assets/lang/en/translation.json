@@ -1,0 +1,26 @@
+{
+    "Home": "Home",
+    "Articles": "Articles",
+    "Logout": "Logout",
+    "Languages": "Languages",
+    "Sign_In": "Sign In",
+    "Sign_Up": "Sign Up",
+    "Register": "Register",
+    "Registered_Farmers": "Registered Farmers",
+    "Registered_Dealers": "Registered Dealers",
+    "Registered_Fertilizers": "Registered Fertilizers",
+    "Registered": "Registered",
+    "Farmers":"Farmers",
+    "Dealers":"Dealers",
+    "Fertilizers":"Fertilizers",
+    "As_a_Farmer":"As a Farmer",
+    "As_a_Dealer":"As a Crop Dealer",
+    "As_a_Fertilizer":"As a Fertilizer Dealer",
+    "Vegetables_in_this_week":"Vegetables in this week",
+    "Vegetables_in_next_month":"Vegetables in next month",
+    "Most_Demand": "Most Demand",
+    "Most_Available": "Most Available",
+    "Not_Available":"Not Available",
+    "Latest_Articles": "Latest Articles"
+
+}

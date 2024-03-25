@@ -1,0 +1,17 @@
+.main-sidebar{
+    position: fixed;
+    left: 0px;
+    top: 85px;
+    bottom: 0;
+    height: 100vh;
+    overflow-y: auto;
+    z-index: 99;
+    background-color: #141423;
+    color: #ffffff;
+    width: 265px;
+    -webkit-transition: left 0.3s ease;
+    transition: left 0.3s ease;
+}
+/* .main-sidebar{
+    color: #ffffff;
+} */

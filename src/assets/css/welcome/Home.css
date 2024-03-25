@@ -1,0 +1,164 @@
+.home .register-links{
+    margin-bottom: 50px;
+}
+.home .register-links .register-box{
+    background-color: #f3f9ff;
+    border: solid 2px rgb(107,182,1,1);
+    border-radius: 5px;
+    line-height: 1;
+    padding: 30px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.home .register-links .register-box:hover{
+    background-color: rgb(107,182,1,1);
+    border: solid 2px #6bb601;
+}
+.home .register-links .register-box .counter{
+    width: 50%;
+    border-right: solid 2px#c4d8e5;
+}
+.home .register-links .register-box .text{
+    width: 50%;
+}
+.home .register-links .register-box .text p{
+    margin-bottom: 5px;
+}
+
+.home .sidebar-view{
+    background-color: #f3f9ff;
+    padding: 15px;
+}
+
+.home .analyzer-summery{
+    background-color: #f3f9ff;
+    padding: 35px 15px;
+}
+.home .analyzer-summery .analyzer-box{
+    position: relative;
+    min-height: 250px;
+    border: solid 1px#ddd;
+    padding: 35px 25px 15px 25px;
+}
+.home .analyzer-summery .analyzer-box > h4{
+    text-align: left;
+    position: absolute;
+    top: -15px;
+    left: 15px;
+    background-color: #f3f9ff;
+    padding: 0 10px;
+}
+.home .analyzer-summery .analyzer-box .list{
+    margin-bottom: 10px;
+    position: relative;
+}
+.home .analyzer-summery .analyzer-box .list ul{
+    list-style: none;
+    padding-left: 0;
+    text-align: left;
+    margin-left: 85px;
+}
+.home .analyzer-summery .analyzer-box .list .image{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.home .analyzer-summery .analyzer-box .list .image img{
+    border: solid 1px #6bb601;
+    border-radius: 50%;
+    width: 75px;
+    padding: 5px;
+}
+.home .analyzer-summery .analyzer-box .list ul li.title{
+    font-size: 22px;
+    color: #6bb601;
+    font-weight: 600;
+}
+.home .analyzer-summery .analyzer-box .more{
+    text-align: right;
+}
+
+.home .harvest-stock{
+    background-color: #f3f9ff;
+    padding: 35px 15px;
+}
+.home .harvest-stock .stock-box{
+    position: relative;
+    min-height: 250px;
+    border: solid 1px#ddd;
+    padding: 35px 25px 15px 25px;
+}
+.home .harvest-stock .stock-box > h4{
+    text-align: left;
+    position: absolute;
+    top: -15px;
+    left: 15px;
+    background-color: #f3f9ff;
+    padding: 0 10px;
+}
+.home .harvest-stock .stock-box ul{
+    list-style: none;
+    padding-left: 0;
+    text-align: left;
+}
+.home .harvest-stock .stock-box ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: solid 1px #ececec;
+}
+.home .harvest-stock .stock-box ul li:last-child{
+    border-bottom: none;
+}
+.home .harvest-stock .stock-box ul li > h6{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: #000000;
+    font-weight: 600;
+    font-size: 17px;
+}
+.home .harvest-stock .stock-box ul li > h6 span{
+    color: #6bb601;
+    font-size: 15px;
+}
+.home .harvest-stock .stock-box ul li > p{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #7d7c7c;
+}
+.home .harvest-stock .stock-box .more{
+    text-align: right;
+}
+
+.home .articles{
+    background-color: #f3f9ff;
+    padding: 15px 15px 30px 15px;
+}
+.home .articles .hm-title{
+    padding: 15px 0 30px 0;
+}
+.home .articles .card{
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+}
+.home .articles .card-box{
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.home .fertilizer-home{
+    background-color: #f3f9ff;
+    padding: 15px 15px 30px 15px;
+}
+
+.home .fertilizer-home .carousel-control-next-icon, .home .fertilizer-home .carousel-control-prev-icon{
+    background-color: rgba(0,0,0,.5);
+    padding: 12px;
+    width: 1rem;
+    height: 1rem;
+}

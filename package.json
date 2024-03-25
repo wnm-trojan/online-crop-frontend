@@ -1,0 +1,62 @@
+{
+  "name": "cm-and-fs-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "dotenv": "^10.0.0",
+    "flag-icon-css": "^4.1.7",
+    "i18next": "^21.6.5",
+    "i18next-browser-languagedetector": "^6.1.2",
+    "i18next-http-backend": "^1.3.1",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.3",
+    "react-charts": "^2.0.0-beta.7",
+    "react-cookies": "^0.1.1",
+    "react-countup": "^6.1.0",
+    "react-datepicker": "^4.5.0",
+    "react-dom": "^17.0.2",
+    "react-google-translate": "^1.0.11",
+    "react-i18next": "^11.15.3",
+    "react-icons": "^4.3.1",
+    "react-notifications": "^1.7.3",
+    "react-redux": "^7.2.6",
+    "react-router": "^6.0.2",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.3",
+    "react-table": "^7.7.0",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
